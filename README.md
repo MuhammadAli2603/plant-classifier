@@ -18,6 +18,7 @@ An **end‑to‑end** image classification and interpretability demo built **ent
 ---
 
 ## 📂 Repository Structure
+```text
 plant-classifier/
 ├── ImageClassification&InterpretabilityPipeline.ipynb   ← Colab notebook (all steps)
 ├── src/
@@ -28,6 +29,7 @@ plant-classifier/
 ├── .gitignore                ← Excludes data, weights, caches
 └── LICENSE                   ← MIT License
 
+`````
 Quickstart
 1️⃣ Run in Colab (Recommended)
 1. Click the Open in Colab badge or visit:
