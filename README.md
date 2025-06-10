@@ -82,7 +82,9 @@ Critical Considerations
 - Class Imbalance: Some classes have far fewer samples—consider weighted or focal loss.
 - Compute Efficiency: ResNet50 is heavy; switching to EfficientNet‑B0 can cut runtime in half.
 - Interpretation Validity: Always sanity‑check Grad‑CAM on blank or random inputs.
-Contributing
+
+## 🤝 Contributing
+
 1. Fork this repo
 2. Make your changes (in Colab or locally)
 3. Commit & push to your fork
